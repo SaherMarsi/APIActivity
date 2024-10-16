@@ -1,0 +1,23 @@
+
+#divMain{
+    border: solid black;
+    border-radius: 15px;
+    padding: 5%;
+    margin: 5%;
+    font-family: 'Gill Sans', sans-serif;
+}
+#resultBox{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 1%;
+    padding: 5%;
+    text-align: center;
+    justify-content: center;
+}
+#searchDiv{
+    display: flex;
+    justify-content: center;
+}
+label, button, input{
+    margin: 1%;
+}
